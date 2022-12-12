@@ -1,0 +1,6 @@
+train: C:\Users\ag82q\Desktop\OD\InsDet_multi\train\images
+val: C:\Users\ag82q\Desktop\OD\InsDet_multi\valid\images
+test: C:\Users\ag82q\Desktop\OD\InsDet_multi\test\images
+
+nc: 3
+names: ['CRWB', 'Fly', 'Other-beetle']
